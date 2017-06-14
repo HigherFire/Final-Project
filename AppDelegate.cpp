@@ -1,5 +1,5 @@
 #include "AppDelegate.h"
-#include "HelloWorldScene.h"
+#include "Player.h"
 #include"gameLayer.h"
 #include"MenuLayer.h"
 
